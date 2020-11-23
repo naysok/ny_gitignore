@@ -7,8 +7,14 @@
 
 
 ### Python
+
+# Python 3
 # Byte-compiled / optimized / DLL files
 __pycache__/
+
+# Python 2
+# cache
+*.pyc
 
 
 ### Virtualenv

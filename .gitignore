@@ -6,19 +6,13 @@
 .vscode/
 
 
-### Python
+### Python 3
 
-# Python 3
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-# Python 2
-# cache
-*.pyc
-
-
-### Virtualenv
-### http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
 .Python
 [Bb]in
 [Ii]nclude
@@ -29,3 +23,9 @@ __pycache__/
 pyvenv.cfg
 .venv
 pip-selfcheck.json
+
+
+##### Python 2
+
+# cache
+*.pyc

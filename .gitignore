@@ -25,7 +25,7 @@ pyvenv.cfg
 pip-selfcheck.json
 
 
-##### Python 2
+### Python 2
 
 # cache
 *.pyc
